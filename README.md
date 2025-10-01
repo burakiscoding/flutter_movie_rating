@@ -34,7 +34,7 @@ I built backend services with Golang. If you want to see it, I'll leave the link
 
 ## What could I have done better
 
-- The data(models) returned from the backend is formatted for use on the mobile. So it wouldn't matter if I didn't create entities.
+- The data(models) returned from the backend is formatted for use on the mobile. So it wouldn't matter if I didn't create entities. We should create the project structure according to our needs.
 - I could build a single feature in detail. It would be better if I just focus on one feature like jwt authentication, fetching/sorting/searching movies. A simple app based on a single feature.
 
 ## Developer's note
