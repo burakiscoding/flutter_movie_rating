@@ -4,11 +4,7 @@ Mobile application built with Flutter. Lists movies. Users can rate movies.
 I built backend services with Golang. If you want to see it, I'll leave the link below.
 <a href="https://github.com/burakiscoding/go-movie-rating">Go Movie Rating Backend</a>
 
-## Tech Stack
-
-- Flutter for mobile
-- Golang for backend
-- MySQL for database
+f
 
 ## Screenshots
 
@@ -39,7 +35,7 @@ I built backend services with Golang. If you want to see it, I'll leave the link
 
 ## Developer's note
 
-I aimed to explain the structure of an application. That's why I didn't pay attention to the details of each feature. And I didn't aim to build good looking UI.
+I aimed to explain the structure of an application. That's why I didn't pay attention to the details of each feature. And I didn't aim to build good looking UI. And I don't want to lose so much time on a portfolio project.
 
 ## How to install
 
